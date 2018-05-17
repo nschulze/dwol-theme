@@ -1,7 +1,7 @@
 {
-  "name": "Light Theme",
+  "name": "Dwolla Theme",
   "version": "1.0.0",
-  "author": "blainesch",
-  "description": "A basic light theme for Zazu",
+  "author": "nschulze",
+  "description": "A basic light theme for DWOL",
   "stylesheet": "dist/main.css"
 }
